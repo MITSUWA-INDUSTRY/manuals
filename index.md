@@ -23,4 +23,6 @@ e-mail : daihyou1@mitsuwa-kogyo.jp
 [光和工業ラーニングサイト（一番塾）](http://os3-377-21722.vs.sakura.ne.jp:5000)   
 [WEB SITE](https://www.mitsuwa-kogyo.jp/)  
 
-Copyright 20206 MITSUWA-INDUSTRY CO.,LTD.
+<div style="textalign: center; color: gray;">
+  Copyright 20206 MITSUWA-INDUSTRY CO.,LTD.
+</div>
