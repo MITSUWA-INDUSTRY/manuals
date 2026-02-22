@@ -24,5 +24,5 @@ e-mail : daihyou1@mitsuwa-kogyo.jp
 [WEB SITE](https://www.mitsuwa-kogyo.jp/)  
 
 <div style="text-align: right; color: DarkGray;">
-  Copyright 20206 MITSUWA-INDUSTRY CO.,LTD.
+  Copyright 2026 MITSUWA-INDUSTRY CO.,LTD.
 </div>
