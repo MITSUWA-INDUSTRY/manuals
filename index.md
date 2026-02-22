@@ -1,3 +1,5 @@
+![logo](images/logo.png)  
+  
 # 光和工業手順書サイト トップページ
   
 ### はじめに
@@ -15,7 +17,6 @@ daihyou1@mitsuwa-kogyo.jp
 
   
 - - -
-![logo](images/logo.png)
   
 [WEB SITE](https://www.mitsuwa-kogyo.jp/)  
 
