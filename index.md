@@ -15,5 +15,5 @@ daihyou1@mitsuwa-kogyo.jp
 
   
 - - -
-URL : https://www.mitsuwa-kogyo.jp/  
+[WEB SITE](https://www.mitsuwa-kogyo.jp/)  
 Copyright 20206 MITSUWA-INDUSTRY CO.,LTD.
