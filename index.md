@@ -16,7 +16,7 @@
   
 マニュアルへの指摘やご意見は下記メールアドレスまで
 ご連絡ください。  
-daihyou1@mitsuwa-kogyo.jp
+e-mail : daihyou1@mitsuwa-kogyo.jp
 
   
 - - -  
