@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/* 
+* {
+    border: 1px solid gray;
+} */
+
+
+body {
+    max-width: 600px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+#frog {
+    height: 1.4em;
+    vertical-align: bottom;
+}
+
+header {
+    font-size: 25px;
+    color: navy;
+}
+header span{
+    vertical-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+}
+
+li {
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.7em;
+    color: gray;
+}
+#logo {
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+}
